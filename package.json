@@ -1,0 +1,23 @@
+{
+  "name": "mimi-compiler",
+  "description": "the tutorial super tiny compiler",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "vitest": "^0.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesmore/mimi-compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesmore/mimi-compiler/issues"
+  },
+  "homepage": "https://github.com/yesmore/mimi-compiler#readme"
+}
